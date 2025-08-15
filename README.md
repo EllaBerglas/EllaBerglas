@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am A software Engineerinng student with a keen interest in ML, NLP and Robotics. 
+I am a software engineerinng student with a keen interest in ML, NLP and Robotics. 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllaBerglas&show_icons=true&theme=radical&count_private=true)
 
